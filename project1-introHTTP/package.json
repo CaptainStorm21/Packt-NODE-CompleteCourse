@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "project1-introhttp",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
